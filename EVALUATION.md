@@ -33,4 +33,4 @@ The bar chart below compares the rating prediction errors (RMSE and MAE) across 
 4. Key Takeaways & Insights
 Hybrid Superiority: The Hybrid Model consistently outperforms all individual models across both rating accuracy (lowest RMSE of 1.5580 and MAE of 1.1746) and top-10 ranking metrics.
 
-Complementary Strengths: While Content-Based and Collaborative Filtering capture individual user preferences and item features, combining them in a Hybrid architecture minimizes prediction error while maximizing catalog diversity (0.0795).<img width="2700" height="1500" alt="Recommender_Model_Rating_Evaluation png" src="https://github.com/user-attachments/assets/2980443a-2d5b-43ed-9359-631040b752cb" />
+Complementary Strengths: While Content-Based and Collaborative Filtering capture individual user preferences and item features, combining them in a Hybrid architecture minimizes prediction error while maximizing catalog diversity (0.0795)
